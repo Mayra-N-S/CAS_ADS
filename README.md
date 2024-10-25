@@ -3,7 +3,7 @@
 
 This repository contains materials for the Certificate of Advanced Studies (CAS) in Applied Data Science offered by the University of Bern.
 
-## Program Structure
+## Repository Structure
 
 According to the structure of the program, this repository is structured as follows:
 
@@ -33,6 +33,7 @@ According to the structure of the program, this repository is structured as foll
 
 ## Additional Resources
 University of Bern website: https://www.unibe.ch/
+
 CAS Applied Data Science website: https://www.unibe.ch/continuing_education_programs/cas_in_applied_data_science/index_eng.html
 
     
