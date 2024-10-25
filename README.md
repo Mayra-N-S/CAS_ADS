@@ -1,1 +1,24 @@
+CAS Applied Data Science
+2024
 
+This repository contains materials for the Certificate of Advanced Studies (CAS) in Applied Data Science offered by the University of Bern.
+
+According to the structure of the program, this repository is structured as follows:
+
+    Module 1: Conceptual Report
+    Module 2: Statistical Inference
+        Descriptive statistics
+        Inferential statistics
+        Hypothesis testing
+    Module 3: Machine Learning
+        Supervised learning
+        Unsupervised learning
+        Model evaluation
+    Module 4: 
+    Module 5: 
+    Module 6: 
+
+Additional Resources
+
+    University of Bern website: https://www.unibe.ch/
+    CAS Applied Data Science website: https://www.unibe.ch/continuing_education_programs/cas_in_applied_data_science/index_eng.html
