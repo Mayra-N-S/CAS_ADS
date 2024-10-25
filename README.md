@@ -1,5 +1,7 @@
 <img src="https://www.unibe.ch/unibe/portal/content/e977779/e987247/e987248/leftcol987250/keryvisualADS_784_eng.png" width="300" height="200">
 ![Title image](https://www.unibe.ch/unibe/portal/content/e977779/e987247/e987248/leftcol987250/keryvisualADS_784_eng.png)
+
+ <head style="background-image: url('https://www.unibe.ch/unibe/portal/content/e977779/e987247/e987248/leftcol987250/keryvisualADS_784_eng.png');"> 
 # CAS Applied Data Science
 **2024**
 
