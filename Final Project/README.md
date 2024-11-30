@@ -14,7 +14,7 @@ This folder is structured as follows:
 
 ### Assignment: 
 * The final project
-* Subfolders will be created (for data, scripts, etc.) as soon as the project will be started
+* Subfolders will be created (for data, scripts, etc.) as soon as the project will be started 
   
 ## Additional Resources
 University of Bern website: https://www.unibe.ch/
@@ -22,4 +22,4 @@ University of Bern website: https://www.unibe.ch/
 CAS Applied Data Science website: https://www.unibe.ch/continuing_education_programs/cas_in_applied_data_science/index_eng.html
 
     
-Author: Mayra Spizzo   
+Author: Mayra Spizzo     
