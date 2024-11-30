@@ -10,28 +10,33 @@ This repository contains materials for the Certificate of Advanced Studies (CAS)
 According to the structure of the program, this repository is structured as follows:
 
 ### Module 1:
-*  Conceptual Report
+*  Conceptual report
 
 ### Module 2: 
-* Statistical Inference
+* Statistical inference
 * Descriptive statistics
 * Inferential statistics
 * Hypothesis testing
 
 ### Module 3: 
-* Machine Learning
+* Machine learning
 * Supervised learning
 * Unsupervised learning
 * Model evaluation
 
 ### Module 4: 
-* [Module 4 Topic]
+* Ethics and best practices
+* How to work with Git
+* Data security
+* Legal aspects
 
 ### Module 5: 
-* [Module 5 Topic]
+* Consolidations
 
 ### Module 6: 
-* [Module 6 Topic]
+* Deep learning
+* Neural networks
+* PyTorch
 
 ## Additional Resources
 University of Bern website: https://www.unibe.ch/
