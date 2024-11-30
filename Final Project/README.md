@@ -22,4 +22,3 @@ University of Bern website: https://www.unibe.ch/
 CAS Applied Data Science website: https://www.unibe.ch/continuing_education_programs/cas_in_applied_data_science/index_eng.html
 
     
-Author of this readme file: Mayra Spizzo     
