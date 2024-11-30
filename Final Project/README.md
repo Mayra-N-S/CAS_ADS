@@ -7,7 +7,7 @@ This folder contains materials for the final project of the Certificate of Advan
 
 ## Folder Structure
 
-This repository is structured as follows:
+This folder is structured as follows:
 
 ### Materials:
 *  Materials from the courses of the CAS used for the final project
