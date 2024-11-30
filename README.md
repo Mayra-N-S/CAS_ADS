@@ -38,6 +38,9 @@ According to the structure of the program, this repository is structured as foll
 * Neural networks
 * PyTorch
 
+### Final Project: 
+* The final project in which the gained knowledge is applied and transferred
+
 ## Additional Resources
 University of Bern website: https://www.unibe.ch/
 
