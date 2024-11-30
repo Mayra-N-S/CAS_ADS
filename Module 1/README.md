@@ -7,7 +7,7 @@ This folder contains materials for module 1 of the Certificate of Advanced Studi
 
 ## Folder Structure
 
-This repository is structured as follows:
+This folder is structured as follows:
 
 ### Materials:
 *  Materials provided for module 1 
