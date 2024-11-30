@@ -13,7 +13,7 @@ This folder is structured as follows:
 *  Materials provided for module 1 
 
 ### Assignment: 
-* The conceptual report
+* The conceptual design report
 
 ## Additional Resources
 University of Bern website: https://www.unibe.ch/
